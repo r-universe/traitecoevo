@@ -20,6 +20,12 @@
   {
     "package": "datastorr",
     "url": "https://github.com/ropenscilabs/datastorr",
+    "via": ["growthform"],
+    "from": "growthform"
+  },
+  {
+    "package": "datastorr",
+    "url": "https://github.com/ropenscilabs/datastorr",
     "via": ["taxonlookup"],
     "from": "taxonlookup"
   },
