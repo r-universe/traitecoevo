@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "APCalign"]
+	path = APCalign
+	url = https://github.com/traitecoevo/apcalign
 [submodule "litterfitter"]
 	path = litterfitter
 	url = https://github.com/traitecoevo/litterfitter
