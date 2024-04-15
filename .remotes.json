@@ -1,0 +1,9 @@
+[
+  {
+    "package": "arrow",
+    "url": "https://github.com/apache/arrow",
+    "via": ["APCalign"],
+    "subdir": "r",
+    "from": "APCalign"
+  }
+]

@@ -5,6 +5,11 @@
 [submodule "APCalign"]
 	path = APCalign
 	url = https://github.com/traitecoevo/apcalign
+[submodule "arrow"]
+	path = arrow
+	url = https://github.com/apache/arrow
+	subdir = r
+	registered = false
 [submodule "litterfitter"]
 	path = litterfitter
 	url = https://github.com/traitecoevo/litterfitter
