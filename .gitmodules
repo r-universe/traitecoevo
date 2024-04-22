@@ -8,6 +8,7 @@
 [submodule "arrow"]
 	path = arrow
 	url = https://github.com/apache/arrow
+	branch = f8ef09a2
 	subdir = r
 	registered = false
 [submodule "litterfitter"]
