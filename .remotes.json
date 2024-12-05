@@ -4,5 +4,11 @@
     "url": "https://github.com/traitecoevo/APCalign",
     "via": ["infinitylists"],
     "from": "infinitylists"
+  },
+  {
+    "package": "austraits",
+    "url": "https://github.com/traitecoevo/austraits",
+    "via": ["traits.build"],
+    "from": "traits.build"
   }
 ]
