@@ -1,10 +1,25 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/traitecoevo/traitecoevo.r-universe.dev
 	branch = HEAD
 [submodule "APCalign"]
 	path = APCalign
-	url = https://github.com/traitecoevo/apcalign
+	url = https://github.com/traitecoevo/APCalign
+[submodule "APD"]
+	path = APD
+	url = https://github.com/traitecoevo/APD
+[submodule "austraits"]
+	path = austraits
+	url = https://github.com/traitecoevo/austraits
+[submodule "hmde"]
+	path = hmde
+	url = https://github.com/traitecoevo/hmde
+[submodule "infinitylists"]
+	path = infinitylists
+	url = https://github.com/traitecoevo/infinitylists
 [submodule "litterfitter"]
 	path = litterfitter
 	url = https://github.com/traitecoevo/litterfitter
+[submodule "traits.build"]
+	path = traits.build
+	url = https://github.com/traitecoevo/traits.build
