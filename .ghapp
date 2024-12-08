@@ -1,0 +1,10 @@
+{
+  "id": 58111751,
+  "created_at": "2024-12-08T02:14:38.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["plant", "APCalign", "austraits", "sizedist", "APD", "traits.build", "APCalign-app", "infinitylists", "hmde", "bmsma", "traitecoevo.r-universe.dev"]
+}
