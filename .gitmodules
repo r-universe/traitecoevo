@@ -23,6 +23,10 @@
 [submodule "litterfitter"]
 	path = litterfitter
 	url = https://github.com/traitecoevo/litterfitter
+[submodule "loggr"]
+	path = loggr
+	url = https://github.com/smbache/loggr
+	registered = false
 [submodule "plant"]
 	path = plant
 	url = https://github.com/traitecoevo/plant

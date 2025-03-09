@@ -10,5 +10,11 @@
     "url": "https://github.com/traitecoevo/austraits",
     "via": ["traits.build"],
     "from": "traits.build"
+  },
+  {
+    "package": "loggr",
+    "url": "https://github.com/smbache/loggr",
+    "via": ["plant"],
+    "from": "plant"
   }
 ]
