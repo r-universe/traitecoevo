@@ -11,6 +11,9 @@
 [submodule "austraits"]
 	path = austraits
 	url = https://github.com/traitecoevo/austraits
+[submodule "bmsma"]
+	path = bmsma
+	url = https://github.com/traitecoevo/bmsma
 [submodule "hmde"]
 	path = hmde
 	url = https://github.com/traitecoevo/hmde
@@ -20,6 +23,12 @@
 [submodule "litterfitter"]
 	path = litterfitter
 	url = https://github.com/traitecoevo/litterfitter
+[submodule "plant"]
+	path = plant
+	url = https://github.com/traitecoevo/plant
+[submodule "smatr"]
+	path = smatr
+	url = https://github.com/traitecoevo/smatr
 [submodule "traits.build"]
 	path = traits.build
 	url = https://github.com/traitecoevo/traits.build
