@@ -12,6 +12,12 @@
     "from": "traits.build"
   },
   {
+    "package": "datastorr",
+    "url": "https://github.com/richfitz/datastorr",
+    "via": ["baad.data"],
+    "from": "baad.data"
+  },
+  {
     "package": "loggr",
     "url": "https://github.com/smbache/loggr",
     "via": ["plant"],

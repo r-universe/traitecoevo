@@ -17,6 +17,10 @@
 [submodule "bmsma"]
 	path = bmsma
 	url = https://github.com/traitecoevo/bmsma
+[submodule "datastorr"]
+	path = datastorr
+	url = https://github.com/richfitz/datastorr
+	registered = false
 [submodule "hmde"]
 	path = hmde
 	url = https://github.com/traitecoevo/hmde
