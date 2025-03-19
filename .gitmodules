@@ -11,6 +11,9 @@
 [submodule "austraits"]
 	path = austraits
 	url = https://github.com/traitecoevo/austraits
+[submodule "baad.data"]
+	path = baad.data
+	url = https://github.com/traitecoevo/baad.data
 [submodule "bmsma"]
 	path = bmsma
 	url = https://github.com/traitecoevo/bmsma
