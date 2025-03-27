@@ -21,6 +21,9 @@
 	path = datastorr
 	url = https://github.com/richfitz/datastorr
 	registered = false
+[submodule "earthtones"]
+	path = earthtones
+	url = https://github.com/traitecoevo/earthtones
 [submodule "hmde"]
 	path = hmde
 	url = https://github.com/traitecoevo/hmde
