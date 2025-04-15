@@ -40,6 +40,9 @@
 [submodule "smatr"]
 	path = smatr
 	url = https://github.com/traitecoevo/smatr
+[submodule "taxonlookup"]
+	path = taxonlookup
+	url = https://github.com/traitecoevo/taxonlookup
 [submodule "traits.build"]
 	path = traits.build
 	url = https://github.com/traitecoevo/traits.build
