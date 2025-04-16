@@ -21,12 +21,21 @@
 [submodule "earthtones"]
 	path = earthtones
 	url = https://github.com/traitecoevo/earthtones
+[submodule "fungaltraits"]
+	path = fungaltraits
+	url = https://github.com/traitecoevo/fungaltraits
 [submodule "hmde"]
 	path = hmde
 	url = https://github.com/traitecoevo/hmde
 [submodule "infinitylists"]
 	path = infinitylists
 	url = https://github.com/traitecoevo/infinitylists
+[submodule "ksi"]
+	path = ksi
+	url = https://github.com/traitecoevo/ksi
+[submodule "leaf13C"]
+	path = leaf13C
+	url = https://github.com/traitecoevo/leaf13C
 [submodule "litterfitter"]
 	path = litterfitter
 	url = https://github.com/traitecoevo/litterfitter
@@ -34,6 +43,9 @@
 	path = loggr
 	url = https://github.com/smbache/loggr
 	registered = false
+[submodule "phyndr"]
+	path = phyndr
+	url = https://github.com/traitecoevo/phyndr
 [submodule "plant"]
 	path = plant
 	url = https://github.com/traitecoevo/plant
