@@ -16,8 +16,7 @@
 	url = https://github.com/traitecoevo/bmsma
 [submodule "datastorr"]
 	path = datastorr
-	url = https://github.com/richfitz/datastorr
-	registered = false
+	url = https://github.com/traitecoevo/datastorr
 [submodule "earthtones"]
 	path = earthtones
 	url = https://github.com/traitecoevo/earthtones
