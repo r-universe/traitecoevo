@@ -23,6 +23,9 @@
 [submodule "fungaltraits"]
 	path = fungaltraits
 	url = https://github.com/traitecoevo/fungaltraits
+[submodule "growthform"]
+	path = growthform
+	url = https://github.com/traitecoevo/growthform
 [submodule "hmde"]
 	path = hmde
 	url = https://github.com/traitecoevo/hmde
