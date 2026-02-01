@@ -41,10 +41,6 @@
 [submodule "litterfitter"]
 	path = litterfitter
 	url = https://github.com/traitecoevo/litterfitter
-[submodule "loggr"]
-	path = loggr
-	url = https://github.com/smbache/loggr
-	registered = false
 [submodule "phyndr"]
 	path = phyndr
 	url = https://github.com/traitecoevo/phyndr
