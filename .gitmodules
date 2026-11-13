@@ -5,12 +5,18 @@
 [submodule "APCalign"]
 	path = APCalign
 	url = https://github.com/traitecoevo/APCalign
+[submodule "EcoacousticUtilities"]
+	path = EcoacousticUtilities
+	url = https://github.com/traitecoevo/ecoacoustic_utilities
 [submodule "austraits"]
 	path = austraits
 	url = https://github.com/traitecoevo/austraits
 [submodule "baad.data"]
 	path = baad.data
 	url = https://github.com/traitecoevo/baad.data
+[submodule "birdnetprocess"]
+	path = birdnetprocess
+	url = https://github.com/traitecoevo/birdnetprocess
 [submodule "bmsma"]
 	path = bmsma
 	url = https://github.com/traitecoevo/bmsma
@@ -20,6 +26,12 @@
 [submodule "earthtones"]
 	path = earthtones
 	url = https://github.com/traitecoevo/earthtones
+[submodule "fieldtrial"]
+	path = fieldtrial
+	url = https://github.com/traitecoevo/fieldtrial
+[submodule "framecpp"]
+	path = framecpp
+	url = https://github.com/traitecoevo/framecpp
 [submodule "fungaltraits"]
 	path = fungaltraits
 	url = https://github.com/traitecoevo/fungaltraits
@@ -41,15 +53,36 @@
 [submodule "litterfitter"]
 	path = litterfitter
 	url = https://github.com/traitecoevo/litterfitter
+[submodule "odelia"]
+	path = odelia
+	url = https://github.com/traitecoevo/odelia
+[submodule "phylloptim"]
+	path = phylloptim
+	url = https://github.com/traitecoevo/phylloptim
 [submodule "phyndr"]
 	path = phyndr
 	url = https://github.com/traitecoevo/phyndr
 [submodule "plant"]
 	path = plant
 	url = https://github.com/traitecoevo/plant
+[submodule "rabbit"]
+	path = rabbit
+	url = https://github.com/traitecoevo/rabbit
+[submodule "regnans"]
+	path = regnans
+	url = https://github.com/traitecoevo/regnans
+[submodule "responses.build"]
+	path = responses.build
+	url = https://github.com/traitecoevo/responses.build
+[submodule "saltbush"]
+	path = saltbush
+	url = https://github.com/traitecoevo/saltbush
 [submodule "smatr"]
 	path = smatr
 	url = https://github.com/traitecoevo/smatr
+[submodule "taxonAlign"]
+	path = taxonAlign
+	url = https://github.com/traitecoevo/taxonAlign
 [submodule "taxonlookup"]
 	path = taxonlookup
 	url = https://github.com/traitecoevo/taxonlookup
